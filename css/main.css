@@ -1,0 +1,74 @@
+/* Reset for body tag */
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    font-family: "Raleway", sans-serif;
+}
+
+/* Header */
+header {
+    margin-top: 15px;
+}
+.ak-header-text, .ak-header-text-2 {
+    line-height: 1em;
+}
+.ak-header {
+    margin-top: 30px;
+}
+.ak-header h1 {
+    font-size: 2rem;
+}
+
+/* Divider */
+.divider {
+    border: 1px solid #fbaf52;
+    margin: 25px 0;
+    width: 100%;
+}
+
+/* Top image */
+.sunrise {
+    width: 100%;
+}
+
+/* Text below top-image */
+.image-text {
+    margin-top: 25px;
+    font-size: 1rem;
+}
+
+/* Headline for sections "more" */
+.more h2 {
+    padding: 30px 0 0 10px;
+    color: #7d97ad;
+    font-weight: 600;
+}
+
+/* Images, headline and anker in section "flowers" */
+.first-picture, .second-picture, .third-picture {
+    width: 100%;
+}
+.three-images {
+    text-align: center;
+    margin: 10px 0 40px 0;
+}
+.three-images h2 {
+    margin-top: 15px;
+    color: #2d3c49;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.three-images a {
+    color: #2d3c49;
+    font-size: 1rem;
+}
+.three-images a:hover {
+    color: #000;
+}
+
+/* Footer */
+footer {
+    margin-top: 40px;
+}
+
